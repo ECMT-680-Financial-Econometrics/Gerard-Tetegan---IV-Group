@@ -7,14 +7,14 @@ The analyses were performed using Python, focusing on reproducing the main ideas
 
 Data Files
 The data files uploaded to this repository include:
-borders_tribes.dbf
-borders_tribes.prj
-borders_tribes.sbn
-borders_tribes.sbx
-borders_tribes.shp
-borders_tribes.shp.xml
-borders_tribes.shx
-slave_trade_QJE.dta
+- borders_tribes.dbf
+- borders_tribes.prj
+- borders_tribes.sbn
+- borders_tribes.sbx
+- borders_tribes.shp
+- borders_tribes.shp.xml
+- borders_tribes.shx
+- slave_trade_QJE.dta
 
 Shape files:
 These ESRI Shapefiles contain geographical information, such as boundaries, polygons, and other spatial data, necessary for spatial analysis. They delineate the geographical regions under study, providing a framework for spatial analysis.
@@ -27,11 +27,11 @@ The analysis was carried out using Python.
 Python libraries such as Pandas, NumPy, Matplotlib, and others were used to replicate the main ideas presented in Nathan Nunn's work.
 
 Instructions
-To replicate the analyses conducted in this project, follow these steps:
-Clone or download this repository to your local machine.
-Ensure you have Python installed along with necessary libraries specified in the requirements.txt file.
-Use the provided data files to run the Python scripts or Jupyter notebooks included in this repository.
-Analyze the results and compare them with the findings of Nathan Nunn's work.
+- To replicate the analyses conducted in this project, follow these steps:
+- Clone or download this repository to your local machine.
+- Ensure you have Python installed along with necessary libraries specified in the requirements.txt file.
+- Use the provided data files to run the Python scripts or Jupyter notebooks included in this repository.
+- Analyze the results and compare them with the findings of Nathan Nunn's work.
 
 Note
 This project is for educational and research purposes only.
