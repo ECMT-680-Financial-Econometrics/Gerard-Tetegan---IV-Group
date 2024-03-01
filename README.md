@@ -48,8 +48,8 @@ Any findings or interpretations presented in this project are solely based on th
 [https://econ2017.sites.olt.ubc.ca/files/2022/01/nathannunn-the-long-term-effect.pdf]
 
 ## Link to Data Files
-Stata File : [https://nathannunn.sites.olt.ubc.ca/files/2022/02/DATA-22The-Long-Term-Effects-of-Africas-Slave-Trades22-slave_trade_qje_replication_dataset.zip]
-Shape File: [https://nathannunn.sites.olt.ubc.ca/files/2022/02/DATA-2222The-Long-Term-Effects-of-Africas-Slave-Trades2222-Murdock.zip]
+ - Stata File : [https://nathannunn.sites.olt.ubc.ca/files/2022/02/DATA-22The-Long-Term-Effects-of-Africas-Slave-Trades22-slave_trade_qje_replication_dataset.zip]
+ - Shape File: [https://nathannunn.sites.olt.ubc.ca/files/2022/02/DATA-2222The-Long-Term-Effects-of-Africas-Slave-Trades2222-Murdock.zip]
 
 
 
